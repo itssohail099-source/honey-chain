@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+venv/
+.env
+
+# Flutter
+.dart_tool/
+build/
+.flutter-plugins
+
+# Smart Contracts
+artifacts/
+cache/
